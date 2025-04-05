@@ -41,6 +41,8 @@ I'm a passionate third-year **Data Science** student with a keen interest in lev
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
+![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=flat-square&logo=codeblocks)
 
 ### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)

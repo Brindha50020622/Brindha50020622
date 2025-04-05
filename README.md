@@ -24,6 +24,9 @@ I'm a passionate third-year **Data Science** student with a keen interest in lev
 - 📧 **Email**: sarathibrindha4@gmail.com
 
 ---
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brindha50020622&layout=compact&theme=tokyonight&langs_count=6)
 
 ### 🛠️ Languages and Tools:
 <p align="left">

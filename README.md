@@ -44,7 +44,7 @@ I'm a passionate third-year **Data Science** student with a keen interest in lev
   <a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
 </p>
-🔗 Let's Connect
+
 
 ## 🔗 Let's Connect
 

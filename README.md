@@ -20,10 +20,6 @@ I'm a passionate third-year **Data Science** student with a keen interest in lev
 
 ---
 
-### 📫 How to Reach Me:
-- 📧 **Email**: sarathibrindha4@gmail.com
-
----
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brindha50020622&layout=compact&theme=tokyonight&langs_count=6)
@@ -48,8 +44,14 @@ I'm a passionate third-year **Data Science** student with a keen interest in lev
   <a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
 </p>
+🔗 Let's Connect
+
 ## 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brindhasarathi2206/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Brindha50020622)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_Directly-red?style=for-the-badge&logo=gmail)](mailto:sarathibrindha4@gmail.com)
+
 

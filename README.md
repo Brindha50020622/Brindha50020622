@@ -7,16 +7,8 @@ I'm a passionate third-year **Data Science** student with a keen interest in lev
 ---
 
 ### 🌱 I’m Currently Learning:
-- 🧠 **Deep Learning for Voice Cloning**  
-  *(YourTTS, Tacotron2, Audio Processing)*
-- ☁️ **Cloud & Deployment**  
-  *(Docker, Heroku, AWS basics)*
-- 🖼️ **Image-Based Search Systems**  
-  *(CNN, MongoDB for images, Pinecone for vector search)*
-- 🔐 **Web App Authentication with Flask**  
-  *(Sessions, Jinja Templates, Flask-Login)*
-- 🧾 **Document Intelligence & RAG Chatbots**  
-  *(PDF, DOCX parsing, vector search, LLMs)*
+- 🧠 Artificial Intelligence and Bigdata  
+  
 
 ---
 
